@@ -70,7 +70,7 @@
             <div class="occasional">
             </div>
             <div class="occasion-cart">
-                <a href="/them-gio-hang?productId=@Model.ID&quantity=1" class="item_add single-item hvr-outline-out button2">Thêm vào giỏ</a>
+                <a href=@Url.Action("AddItem", "Cart", new { @productId = Model.ID, @quantity=1, @strURL = Request.Url.ToString()}) class="item_add single-item hvr-outline-out button2">Thêm vào giỏ</a>
             </div>
 
         </div>
