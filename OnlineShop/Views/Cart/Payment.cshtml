@@ -1,0 +1,77 @@
+﻿@model List<OnlineShop.Models.CartItem>
+@{
+    ViewBag.Title = "Thanh toán";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="content">
+    <div class="container">
+        <h3 style="color: #FDA30E; text-align: center; text-transform: uppercase; font-size: 48px;padding-top:50px">Giỏ hàng</h3>
+    </div>
+    <div class="checkout">
+        <div class="container">
+            <h3>Giỏ hàng của tôi</h3>
+            <div class="table-responsive checkout-right animated wow slideInUp" data-wow-delay=".5s">
+                @if (Model.Count > 0)
+                {
+                    <table class="timetable_sub">
+                        <thead>
+                            <tr>
+                                <th>Mã SP</th>
+                                <th>Tên SP</th>
+                                <th>Ảnh SP</th>
+                                <th>Số lượng</th>
+                                <th>Đơn giá</th>
+                                <th>Thành tiền</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.Product.ID</td>
+                                    <td>@item.Product.Name</td>
+                                    <td><img src="@item.Product.Image" width="100" /></td>
+                                    <td><input type="text" class="txtQuantity" data-id="@item.Product.ID" value="@item.Quantity" /></td>
+                                    <td>@item.Product.Price.GetValueOrDefault(0).ToString("N0")</td>
+                                    <td>@((item.Product.Price.GetValueOrDefault(0) * item.Quantity).ToString("N0"))</td>
+                                    <td><a href="#" data-id="@item.Product.ID" class="btn-delete">Xoá</a></td>
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                }
+            </div>
+            <div class="container">
+                <h3 style="padding-top:60px">Thông tin đặt hàng</h3>
+            </div>
+            <div class="section group">
+                <div class="col-md-6">
+                    @using (Html.BeginForm("Payment", "Cart", FormMethod.Post))
+                    {
+                        <div class="form-group">
+                            <label>Người nhận</label>
+                            <input name="shipName" class="form-control" />
+                        </div>
+                        <div class="form-group">
+                            <label>Điện thoại</label>
+                            <input name="mobile" class="form-control" />
+                        </div>
+                        <div class="form-group">
+                            <label>Địa chỉ</label>
+                            <input name="address" class="form-control" />
+                        </div>
+                        <div class="form-group">
+                            <label>Email</label>
+                            <input name="email" class="form-control" />
+                        </div>
+                        <button type="submit" class="btn">Gửi đơn hàng</button>
+                    }
+                </div>
+
+            </div>
+        </div>
+        </div>
+    
+</div>

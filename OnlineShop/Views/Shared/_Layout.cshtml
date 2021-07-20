@@ -1,0 +1,210 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <title>HPK SHOES</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="Smart Shop Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
+        Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+    <script type="application/x-javascript">
+        addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+               function hideURLbar(){ window.scrollTo(0,1); } </script>
+
+    <link href="/assets/client/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="/assets/client/css/pignose.layerslider.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="/assets/client/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <script type="text/javascript" src="/assets/client/js/jquery-2.1.4.min.js"></script>
+    <script src="/assets/client/js/simpleCart.min.js"></script>
+
+    <script type="text/javascript" src="/assets/client/js/bootstrap-3.1.1.min.js"></script>
+    <link href='http://font.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link href='http://font.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,900,900italic,700italic' rel='stylesheet' type='text/css'>
+    <script src="/assets/client/js/jquery.easing.min.js"></script>
+</head>
+<body>
+    <div class="header">
+        <div class="container">
+            <ul>
+                <li><span class="glyphicon glyphicon-inbox" aria-hidden="true"></span>Giao hàng nhanh chóng</li>
+                <li><span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span>Miễn phí vận chuyển</li>
+                <li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span><a href="domanhhungc4@gmail.com">domanhhungc4@gmail.com</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="header-bot">
+        <div class="container">
+            <div class="col-md-3 header-left">
+                <h1><a href="/"><img src="/assets/client/Image/logo1.jpg"></a></h1>
+            </div>
+            <div class="col-md-6 header-middle">
+                <form action="/tim-kiem" method="get">
+                    <div class="search">
+                        <input type="search" name="searchString" placeholder="Hãy nhập từ khóa ">
+                    </div>
+                    <div class="section_room">
+                        <select id="country" onchange="change_country(this.value)" class="frm-field required">
+                            <option value="null">Tất cả sản phẩm</option>
+                            <option value="null">Nike</option>
+                            <option value="AX">Adidas</option>
+                            <option value="AX">Jordan</option>
+                            <option value="AX">Yeezy</option>
+                        </select>
+                    </div>
+                    <div class="sear-sub">
+                        <input type="submit" value=" ">
+                    </div>
+                    <div class="clearfix"></div>
+                </form>
+            </div>
+            <div class="col-md-3 header-right footer-bottom">
+                <ul>
+                    <li>
+                        <a href="#" class="use1" data-toggle="modal" data-target="#myModal4"><span>Login</span></a>
+                    </li>
+                    <li><a class="fb" href="https://www.facebook.com/M%E1%BA%A1nh-M%E1%BB%A1-184687066357136" target="_blank"></a></li>
+                    <li><a class="twi" href="https://twitter.com/Manhhun36815177" target="_blank"></a></li>
+                    <li><a class="insta" href="https://www.instagram.com/manhhung.107/" target="_blank"></a></li>
+                    <li><a class="you" href="https://www.youtube.com/channel/UCkdd1o18iYSvd6N-wITqT_g" target="_blank"></a></li>
+                </ul>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <div class="ban-top">
+        <div class="container">
+            <div class="top_nav_left">
+                <nav class="navbar navbar-default">
+                    <div class="container-fluid">
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                        </div>
+                        @{Html.RenderAction("MainMenu", "Home"); }
+                    </div>
+                </nav>
+            </div>
+            <div class="top_nav_right">
+                @{Html.RenderAction("Cart", "Home"); }
+                <script type="text/javascript">
+                    function DropDown(el) {
+                        this.dd = el;
+                        this.initEvents();
+                    }
+                    DropDown.prototype = {
+                        initEvents: function () {
+                            var obj = this;
+
+                            obj.dd.on('click', function (event) {
+                                $(this).toggleClass('active');
+                                event.stopPropagation();
+                            });
+                        }
+                    }
+
+                    $(function () {
+
+                        var dd = new DropDown(('#dd')VNĐ);
+
+                        $(document).click(function () {
+                            // all dropdowns
+                            $('.wrapper-dropdown-2').removeClass('active');
+                        });
+
+                    });
+
+                </script>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <div class="clear"></div>
+    @RenderBody()
+    <div class="coupons">
+        <div class="container">
+            <div class="coupons-grids text-center">
+                <div class="col-md-3 coupons-gd">
+                    <h3>Mua sắm dễ dàng chỉ bằng bằng 3 thao tác</h3>
+                </div>
+                <div class="col-md-3 coupons-gd">
+                    <span class="glyphicon glyphicon-user" aria-hidden="true"></span>
+                    <h4>ĐĂNG NHẬP TÀI KHOẢN</h4>
+                    <p>
+                        Đăng nhập bằng tài khoản để chúng tôi lưu thông tin quý khách
+                    </p>
+                </div>
+                <div class="col-md-3 coupons-gd">
+                    <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+                    <h4>LỰA CHỌN SẢN PHẨM</h4>
+                    <p>
+                        Hãy chọn sản phẩm mà quý khách muốn mua
+                    </p>
+                </div>
+                <div class="col-md-3 coupons-gd">
+                    <span class="glyphicon glyphicon-credit-card" aria-hidden="true"></span>
+                    <h4>TIẾN HÀNH THANH TOÁN</h4>
+                    <p>
+                        Tiến hành thanh toán bằng nhiều hình thức 
+                    </p>
+                </div>
+                <div class="clearfix"> </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="container">
+            <div class="col-md-3 footer-left">
+                <h2><a href="/"><img src="/assets/client/Image/logo1.jpg" alt=" " /></a></h2>
+                <p>
+                    Cửa hàng giày dép 3 thành viên được thành lập năm 2021 phục vụ cho đồ án môn lập trình web học kì 2b năm 2021.
+                </p>
+            </div>
+            <div class="col-md-9 footer-right">
+                <div class="clearfix"></div>
+                <div class="sign-grds">
+                    <div class="col-md-4 sign-gd">
+                        <h4>Danh mục</h4>
+                        <ul>
+                            <li><a href="/">Trang chủ</a></li>
+                            <li><a href="/san-pham">Sản phẩm</a></li>
+                            <li><a href="/nike">Thương hiệu Nike</a></li>
+                            <li><a href="/adidas">Thương hiệu Adidas</a></li>
+                            <li><a href="/jordan">Thương hiệu Jordan</a></li>
+                            <li><a href="/yeezy">Thương hiệu Yeezy</a></li>
+
+                        </ul>
+                    </div>
+
+                    <div class="col-md-4 sign-gd-two">
+                        <h4>Thông tin cửa hàng</h4>
+                        <ul>
+                            <li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i>Địa chỉ : 100C/T25 Trần Phú <span>Nha Trang</span></li>
+                            <li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i>Email : <a href="info@example.com">domanhhungc4@gmail.com</a></li>
+                            <li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>Điện thoại : +84823466061</li>
+                            </ul>
+
+                    </div>
+                    <div class="col-md-4 sign-gd flickr-post">
+                        <h4>Vị trí</h4>
+                        <h2><iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d487.414985062297!2d109.1996951!3d12.226607!3m2!1i1024!2i768!4f13.1!5e0!3m2!1svi!2s!4v1626085744770!5m2!1svi!2s" 
+                                    width="400" height="200" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></h2>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+            <p class="copy-right">&copy 2021 HPK SNEAKER.| Design by <a href="https://www.facebook.com/profile.php?id=100011415699451">Đỗ Mạnh Hùng</a></p>
+        </div>
+    </div>
+    @RenderSection("jsFooter", required: false)
+    
+</body>
+</html>
+
+
+
+

@@ -1,0 +1,130 @@
+﻿@using Model.EF
+@using Model.Dao
+@using PagedList.Mvc
+@model PagedList.PagedList<Model.EF.Product>
+@{
+    ViewBag.Title = "Other";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="page-head">
+</div>
+<div class="grid_3 grid_5 wow fadeInLeft animated" data-wow-delay=".5s">
+    <ol class="breadcrumb">
+        <li><a href="/">Trang chủ</a></li>
+        <li><a href="/san-pham">Sản phẩm</a></li>
+        <li><a href="/orther-brand">Thương hiệu khác</a></li>
+    </ol>
+</div>
+<div class="container">
+    <h3 style="color: #FDA30E; text-align: center; text-transform: uppercase; font-size: 48px;padding-top:50px">Thương hiệu khác</h3>
+</div>
+<div class="men-wear">
+    <div class="container">
+        <div class="col-md-4 products-left">
+        </div>
+        <div class="col-md-8 products-right">
+        </div>
+        <div class="clearfix"></div>
+        <div class="single-pro">
+            @foreach (var item in Model)
+            {
+                var url = "/chi-tiet/" + item.MetaTitle + "-" + item.ID;
+                <div class="col-md-3 product-men yes-marg">
+                    <div class="men-pro-item simpleCart_shelfItem">
+                        <div class="men-thumb-item">
+                            <a href="@url"><img src="@item.Image" alt="@item.Name" class="pro-image-front"></a>
+                            <a href="@url"><img src="@item.Image" alt="@item.Name" class="pro-image-back"></a>
+                            <div class="men-cart-pro">
+                                <div class="inner-men-cart-pro">
+                                    <a href="@url" class="link-product-add-cart">Chi tiết</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item-info-product ">
+                            <h4><a href="@url">@item.Name</a></h4>
+                            <div class="info-product-price">
+                                <p><span class="item_price">@(item.Price.HasValue ? item.Price.Value.ToString("N0") : "Liên hệ")  VNĐ</span></p>
+                            </div>
+                            <div class="occasion-cart">
+                                <a href=@Url.Action("AddItem", "Cart", new { @productId = item.ID, @quantity=1, @strURL = Request.Url.ToString()}) class="item_add single-item hvr-outline-out button2">Thêm vào giỏ</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+
+            <div class="clearfix"></div>
+        </div>
+        <div class="pagination-grid text-right">
+            <ul class="pagination paging">
+                <div class="row">
+                    @Html.PagedListPager(Model, page => Url.Action("/", new { page = page }))
+                </div>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="myModal4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content modal-info">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            </div>
+            <div class="modal-body modal-spa">
+                <div class="login-grids">
+                    <div class="login">
+                        <div class="login-bottom">
+                            <h3>Sign up for free</h3>
+                            <form>
+                                <div class="sign-up">
+                                    <h4>Email :</h4>
+                                    <input type="text" value="Type here" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Type here';}" required="">
+                                </div>
+                                <div class="sign-up">
+                                    <h4>Password :</h4>
+                                    <input type="password" value="Password" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Password';}" required="">
+
+                                </div>
+                                <div class="sign-up">
+                                    <h4>Re-type Password :</h4>
+                                    <input type="password" value="Password" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Password';}" required="">
+
+                                </div>
+                                <div class="sign-up">
+                                    <input type="submit" value="REGISTER NOW">
+                                </div>
+
+                            </form>
+                        </div>
+                        <div class="login-right">
+                            <h3>Sign in with your account</h3>
+                            <form>
+                                <div class="sign-in">
+                                    <h4>Email :</h4>
+                                    <input type="text" value="Type here" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Type here';}" required="">
+                                </div>
+                                <div class="sign-in">
+                                    <h4>Password :</h4>
+                                    <input type="password" value="Password" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Password';}" required="">
+                                    <a href="#">Forgot password?</a>
+                                </div>
+                                <div class="single-bottom">
+                                    <input type="checkbox" id="brand" value="">
+                                    <label for="brand"><span></span>Remember Me.</label>
+                                </div>
+                                <div class="sign-in">
+                                    <input type="submit" value="SIGNIN">
+                                </div>
+                            </form>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <p>By logging in you agree to our <a href="#">Terms and Conditions</a> and <a href="#">Privacy Policy</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

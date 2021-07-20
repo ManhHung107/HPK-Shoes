@@ -1,0 +1,432 @@
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\csc.exe
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\vbc.exe
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\OnlineShop.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Antlr3.Runtime.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\BotDetect.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\BotDetect.Web.UI.Mvc.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Common.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\EntityFramework.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Facebook.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Model.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Newtonsoft.Json.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Owin.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\PagedList.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\PagedList.Mvc.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\StaticResources.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.Helpers.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.Mvc.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.Optimization.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.Razor.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.WebPages.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\WebGrease.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Common.pdb
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Model.pdb
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\StaticResources.pdb
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Facebook.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\PagedList.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\PagedList.Mvc.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.Helpers.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.Mvc.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.Optimization.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.Razor.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.WebPages.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Antlr3.Runtime.pdb
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Newtonsoft.Json.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\EntityFramework.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\en\StaticResources.resources.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csprojResolveAssemblyReference.cache
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\roslyn\csc.exe
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\roslyn\vbc.exe
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\OnlineShop.dll.config
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\OnlineShop.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\OnlineShop.pdb
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Antlr3.Runtime.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\BotDetect.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\BotDetect.Web.UI.Mvc.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Common.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\EntityFramework.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Facebook.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.Owin.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Model.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Owin.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\PagedList.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\PagedList.Mvc.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\StaticResources.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\System.Web.Helpers.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\System.Web.Mvc.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\System.Web.Optimization.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\System.Web.Razor.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\System.Web.WebPages.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\WebGrease.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Common.pdb
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Model.pdb
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Model.dll.config
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\StaticResources.pdb
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Facebook.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\PagedList.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\PagedList.Mvc.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\System.Web.Helpers.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\System.Web.Mvc.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\System.Web.Optimization.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\System.Web.Razor.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\System.Web.WebPages.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Newtonsoft.Json.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\EntityFramework.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.Owin.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\bin\en\StaticResources.resources.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\obj\Debug\OnlineShop.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\roslyn\csc.exe
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\roslyn\vbc.exe
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\OnlineShop.dll.config
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\OnlineShop.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\OnlineShop.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Antlr3.Runtime.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\BotDetect.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\BotDetect.Web.UI.Mvc.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Common.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\EntityFramework.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Facebook.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.Owin.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Model.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Owin.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\PagedList.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\PagedList.Mvc.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\StaticResources.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\System.Web.Helpers.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\System.Web.Mvc.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\System.Web.Optimization.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\System.Web.Razor.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\System.Web.WebPages.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\WebGrease.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Common.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Model.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Model.dll.config
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\StaticResources.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Facebook.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\PagedList.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\PagedList.Mvc.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\System.Web.Helpers.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\System.Web.Mvc.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\System.Web.Optimization.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\System.Web.Razor.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\System.Web.WebPages.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Newtonsoft.Json.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\EntityFramework.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.Owin.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\en\StaticResources.resources.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\obj\Debug\OnlineShop.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\roslyn\csc.exe
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\roslyn\vbc.exe
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\OnlineShop.dll.config
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\OnlineShop.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\OnlineShop.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Antlr3.Runtime.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\BotDetect.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\BotDetect.Web.UI.Mvc.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Common.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\EntityFramework.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Facebook.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.Owin.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Model.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Owin.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\PagedList.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\PagedList.Mvc.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\StaticResources.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\System.Web.Helpers.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\System.Web.Mvc.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\System.Web.Optimization.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\System.Web.Razor.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\System.Web.WebPages.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\WebGrease.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Common.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Model.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Model.dll.config
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\StaticResources.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Facebook.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\PagedList.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\PagedList.Mvc.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\System.Web.Helpers.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\System.Web.Mvc.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\System.Web.Optimization.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\System.Web.Razor.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\System.Web.WebPages.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Newtonsoft.Json.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\EntityFramework.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.Owin.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\bin\en\StaticResources.resources.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\obj\Debug\OnlineShop.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\obj\Debug\OnlineShop.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\roslyn\csc.exe
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\roslyn\vbc.exe
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\OnlineShop.dll.config
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\OnlineShop.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\OnlineShop.pdb
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Antlr3.Runtime.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\BotDetect.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\BotDetect.Web.UI.Mvc.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Common.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\EntityFramework.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Facebook.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.Owin.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Model.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Owin.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\PagedList.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\PagedList.Mvc.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\StaticResources.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\System.Web.Helpers.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\System.Web.Mvc.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\System.Web.Optimization.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\System.Web.Razor.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\System.Web.WebPages.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\WebGrease.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Common.pdb
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Model.pdb
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Model.dll.config
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\StaticResources.pdb
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Facebook.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\PagedList.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\PagedList.Mvc.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\System.Web.Helpers.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\System.Web.Mvc.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\System.Web.Optimization.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\System.Web.Razor.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\System.Web.WebPages.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Newtonsoft.Json.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\EntityFramework.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.Owin.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\en\StaticResources.resources.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete

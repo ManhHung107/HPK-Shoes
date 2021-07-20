@@ -1,0 +1,124 @@
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\Model.dll.config
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\Model.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\Model.pdb
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\EntityFramework.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\PagedList.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\StaticResources.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\StaticResources.pdb
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\EntityFramework.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\PagedList.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\en\StaticResources.resources.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\obj\Debug\Model.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\obj\Debug\Model.pdb
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\Common.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\Common.pdb
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\Model\bin\Debug\Model.dll.config
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\Model\bin\Debug\Model.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\Model\bin\Debug\Model.pdb
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\Model\bin\Debug\Common.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\Model\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\Model\bin\Debug\PagedList.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\Model\bin\Debug\StaticResources.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\Model\bin\Debug\Common.pdb
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\Model\bin\Debug\StaticResources.pdb
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\Model\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\Model\bin\Debug\PagedList.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\Model\bin\Debug\en\StaticResources.resources.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\Model\obj\Debug\Model.dll
+C:\Users\Admin\OneDrive\Desktop\OnlineShop_52\Model\obj\Debug\Model.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\Model\bin\Debug\Model.dll.config
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\Model\bin\Debug\Model.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\Model\bin\Debug\Model.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\Model\bin\Debug\Common.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\Model\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\Model\bin\Debug\PagedList.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\Model\bin\Debug\StaticResources.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\Model\bin\Debug\Common.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\Model\bin\Debug\StaticResources.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\Model\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\Model\bin\Debug\PagedList.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\Model\bin\Debug\en\StaticResources.resources.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\Model\obj\Debug\Model.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\Model\obj\Debug\Model.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\Model\bin\Debug\Model.dll.config
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\Model\bin\Debug\Model.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\Model\bin\Debug\Model.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\Model\bin\Debug\Common.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\Model\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\Model\bin\Debug\PagedList.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\Model\bin\Debug\StaticResources.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\Model\bin\Debug\Common.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\Model\bin\Debug\StaticResources.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\Model\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\Model\bin\Debug\PagedList.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\Model\bin\Debug\en\StaticResources.resources.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\Model\obj\Debug\Model.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web (1)\Model\obj\Debug\Model.pdb
+C:\Đồ án lập trình web\Model\bin\Debug\Model.dll.config
+C:\Đồ án lập trình web\Model\bin\Debug\Model.dll
+C:\Đồ án lập trình web\Model\bin\Debug\Model.pdb
+C:\Đồ án lập trình web\Model\bin\Debug\Common.dll
+C:\Đồ án lập trình web\Model\bin\Debug\EntityFramework.dll
+C:\Đồ án lập trình web\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Đồ án lập trình web\Model\bin\Debug\PagedList.dll
+C:\Đồ án lập trình web\Model\bin\Debug\PagedList.Mvc.dll
+C:\Đồ án lập trình web\Model\bin\Debug\StaticResources.dll
+C:\Đồ án lập trình web\Model\bin\Debug\Common.pdb
+C:\Đồ án lập trình web\Model\bin\Debug\StaticResources.pdb
+C:\Đồ án lập trình web\Model\bin\Debug\EntityFramework.xml
+C:\Đồ án lập trình web\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Đồ án lập trình web\Model\bin\Debug\PagedList.xml
+C:\Đồ án lập trình web\Model\bin\Debug\PagedList.Mvc.xml
+C:\Đồ án lập trình web\Model\bin\Debug\en\StaticResources.resources.dll
+C:\Đồ án lập trình web\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Đồ án lập trình web\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Đồ án lập trình web\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Đồ án lập trình web\Model\obj\Debug\Model.dll
+C:\Đồ án lập trình web\Model\obj\Debug\Model.pdb
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\Model\bin\Debug\Model.dll.config
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\Model\bin\Debug\Model.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\Model\bin\Debug\Model.pdb
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\Model\bin\Debug\Common.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\Model\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\Model\bin\Debug\PagedList.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\Model\bin\Debug\StaticResources.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\Model\bin\Debug\Common.pdb
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\Model\bin\Debug\StaticResources.pdb
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\Model\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\Model\bin\Debug\PagedList.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\Model\bin\Debug\en\StaticResources.resources.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\Model\obj\Debug\Model.dll
+C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\Model\obj\Debug\Model.pdb
