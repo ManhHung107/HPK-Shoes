@@ -1207,6 +1207,7 @@
     <Content Include="assets\client\css\font-awesome.min.css" />
     <Content Include="assets\client\css\jquery-ui.css" />
     <Content Include="assets\client\css\style.css" />
+    <Content Include="assets\client\css\style2.css" />
     <Content Include="assets\client\data\Provinces_Data.xml" />
     <Content Include="assets\client\font\glyphicons-halflings-regular.svg" />
     <Content Include="assets\client\Image\005-8797.jpg" />
@@ -1235,12 +1236,19 @@
     <Content Include="assets\client\Image\AIR-FORCE.jpg" />
     <Content Include="assets\client\Image\airforce.jpg" />
     <Content Include="assets\client\Image\arrow.png" />
+    <Content Include="assets\client\Image\bg %281%29.jpg" />
+    <Content Include="assets\client\Image\bg.jpg" />
+    <Content Include="assets\client\Image\btn_next.png" />
+    <Content Include="assets\client\Image\btn_pause.png" />
+    <Content Include="assets\client\Image\btn_play.png" />
+    <Content Include="assets\client\Image\btn_prev.png" />
     <Content Include="assets\client\Image\close_1.png" />
     <Content Include="assets\client\Image\dunk-low-orange-pearl.jpeg" />
     <Content Include="assets\client\Image\e7cb93b440eebb14eb30a1cbfafd30fc.jpg" />
     <Content Include="assets\client\Image\HAVEN-adidas-Yeezy-Boost-700-V2-INERTIA-September-News-1.jpg" />
     <Content Include="assets\client\Image\HAVEN-YEEZY-350-ZEBRA-NEWS.jpg" />
     <Content Include="assets\client\Image\HUNG.jpg" />
+    <Content Include="assets\client\Image\icons.png" />
     <Content Include="assets\client\Image\icons1.png" />
     <Content Include="assets\client\Image\img-sp.png" />
     <Content Include="assets\client\Image\jordan-1-low-grey-camo.jpeg" />
@@ -1256,7 +1264,29 @@
     <Content Include="assets\client\Image\layoutt3.jpg" />
     <Content Include="assets\client\Image\logo1.jpg" />
     <Content Include="assets\client\Image\mark1.png" />
+    <Content Include="assets\client\Image\mem.png" />
+    <Content Include="assets\client\Image\mem2.jpg" />
     <Content Include="assets\client\Image\mlb-mule9-1299.jpg" />
+    <Content Include="assets\client\Image\New Tab.htm" />
+    <Content Include="assets\client\Image\New Tab_files\dn.js" />
+    <Content Include="assets\client\Image\New Tab_files\logo11w.png" />
+    <Content Include="assets\client\Image\New Tab_files\saved_resource.htm" />
+    <Content Include="assets\client\Image\New Tab_files\thumbnail%281%29.htm" />
+    <Content Include="assets\client\Image\New Tab_files\thumbnail%282%29.htm" />
+    <Content Include="assets\client\Image\New Tab_files\thumbnail%283%29.htm" />
+    <Content Include="assets\client\Image\New Tab_files\thumbnail%284%29.htm" />
+    <Content Include="assets\client\Image\New Tab_files\thumbnail%285%29.htm" />
+    <Content Include="assets\client\Image\New Tab_files\thumbnail%286%29.htm" />
+    <Content Include="assets\client\Image\New Tab_files\thumbnail%287%29.htm" />
+    <Content Include="assets\client\Image\New Tab_files\thumbnail.htm" />
+    <Content Include="assets\client\Image\New Tab_files\title%281%29.htm" />
+    <Content Include="assets\client\Image\New Tab_files\title%282%29.htm" />
+    <Content Include="assets\client\Image\New Tab_files\title%283%29.htm" />
+    <Content Include="assets\client\Image\New Tab_files\title%284%29.htm" />
+    <Content Include="assets\client\Image\New Tab_files\title%285%29.htm" />
+    <Content Include="assets\client\Image\New Tab_files\title%286%29.htm" />
+    <Content Include="assets\client\Image\New Tab_files\title%287%29.htm" />
+    <Content Include="assets\client\Image\New Tab_files\title.htm" />
     <Content Include="assets\client\Image\new2.jpg" />
     <Content Include="assets\client\Image\new3.jpg" />
     <Content Include="assets\client\Image\nike-air-force-1-lx-multi-.jpeg" />
@@ -1266,8 +1296,10 @@
     <Content Include="assets\client\Image\PHAT.jpg" />
     <Content Include="assets\client\Image\Phat.png" />
     <Content Include="assets\client\Image\rsx3-den3-2-6952.jpg" />
+    <Content Include="assets\client\Image\s-colr.png" />
     <Content Include="assets\client\Image\search.png" />
     <Content Include="assets\client\Image\SUPER-STAR.jpg" />
+    <Content Include="assets\client\Image\tick.png" />
     <Content Include="assets\client\Image\YEEZY1.jpg" />
     <Content Include="assets\client\js\bootstrap-3.1.1.min.js" />
     <Content Include="assets\client\js\bootstrap.min.js" />
@@ -1329,6 +1361,20 @@
     <Content Include="Areas\Admin\Views\Products\Edit.cshtml" />
     <Content Include="Areas\Admin\Views\Products\Index.cshtml" />
     <Content Include="assets\client\Image\Lab-04.rar" />
+    <Content Include="assets\client\Image\New Tab_files\cb=gapi.loaded_0" />
+    <Content Include="assets\client\Image\New Tab_files\favicons" />
+    <Content Include="assets\client\Image\New Tab_files\favicons%281%29" />
+    <Content Include="assets\client\Image\New Tab_files\favicons%282%29" />
+    <Content Include="assets\client\Image\New Tab_files\favicons%283%29" />
+    <Content Include="assets\client\Image\New Tab_files\favicons%284%29" />
+    <Content Include="assets\client\Image\New Tab_files\favicons%285%29" />
+    <Content Include="assets\client\Image\New Tab_files\favicons%286%29" />
+    <Content Include="assets\client\Image\New Tab_files\favicons%287%29" />
+    <Content Include="assets\client\Image\New Tab_files\rs=AItRSTME1S6kXvtQH9VG79Cg4ZjugnGEbQ" />
+    <Content Include="assets\client\Image\New Tab_files\rs=AItRSTMKqc5EiNNaX4OO0TyVLnbu3Vc0Ag" />
+    <Content Include="assets\client\Image\New Tab_files\rs=AItRSTMKqc5EiNNaX4OO0TyVLnbu3Vc0Ag%281%29" />
+    <Content Include="assets\client\Image\New Tab_files\webpagethumbnail" />
+    <Content Include="assets\client\Image\New Tab_files\webpagethumbnail%281%29" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />

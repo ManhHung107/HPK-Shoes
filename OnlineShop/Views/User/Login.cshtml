@@ -1,115 +1,68 @@
 ﻿@model OnlineShop.Models.LoginModel
 
-@{
-    ViewBag.Title = "Login";
-    Layout = "~/Views/Shared/_Layout.cshtml";
-}
+@{ ViewBag.Title = "Login";
+     }
 
-<div class="content">
-    @using (Html.BeginForm("Login", "User", FormMethod.Post))
-            {
-        @Html.AntiForgeryToken()
-        <div class="form-horizontal">
-            <h4>Đăng nhập</h4>
-            <hr />
 
-            <div class="form-group">
-                <label class="control-label col-md-2"></label>
-                <div class="col-md-10">
-                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
-                </div>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>The Login-Animated Website Template | Home :: w3layouts</title>
+    <meta charset="utf-8">
+    <link href="/assets/client/css/style2.css" rel='stylesheet' type='text/css' />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <!--webfonts-->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:600italic,400,300,600,700' rel='stylesheet' type='text/css'>
+    <!--//webfonts-->
+</head>
+<body>
+
+    <!-----start-main---->
+    <div class="login-form">
+        <div class="head">
+            <img src="~/assets/client/Image/mem.png" alt="" />
+
+        </div>
+        @using (Html.BeginForm("Login", "User", FormMethod.Post))
+        {
+             @Html.AntiForgeryToken()
+    <div class="form-horizontal">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            <div class="col-md-10">
+                <a href="#" class=" icon user"></a>
+                @Html.TextBoxFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
             </div>
-
-            <div class="form-group">
-                @Html.LabelFor(model => model.UserName, htmlAttributes: new { @class = "control-label col-md-2" })
-                <div class="col-md-10">
-                    @Html.TextBoxFor(model => model.UserName, new { @class = "form-control" })
-                    @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
-                </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-10">
+                @Html.PasswordFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })<a href="#" class=" icon lock"></a>
+                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
             </div>
-
-            <div class="form-group">
-                @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-2" })
-                <div class="col-md-10">
-                    @Html.PasswordFor(model => model.Password, new { @class = "form-control" })
-                    @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
-                </div>
+        </div>
+    </div>
+            <div class="p-container">
+                <label class="checkbox"><input type="checkbox" name="checkbox" checked><i></i>Remember Me</label>
+                <input type="submit" value="Đăng nhập" class="btn btn-default" />
+                <div class="clear"> </div>
             </div>
 
             <div class="form-group">
                 <div class="col-md-offset-2 col-md-10">
-                    <input type="submit" value="Đăng nhập" class="btn btn-default" />
-                    <a class="btn btn-facebook" href="/User/LoginFacebook">
-                        <i class="fa fa-facebook"></i>
-                        Đăng nhập bằng Facebook 
+
+                    <a href="/dang-ky" class="btn btn-default"> Đăng ký</a> <br />
+                    <a class="btn btn-primary" style="background-color: #3b5998;" href="#!" role="button">
+                        <i class="fab fa-facebook-f"></i>
                     </a>
                 </div>
-            </div>
+            </div>}
+
         </div>
-    }
 
+</body>
+</html>
 
-</div>
-
-
-<div class="modal fade" id="myModal4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content modal-info">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-            </div>
-            <div class="modal-body modal-spa">
-                <div class="login-grids">
-                    <div class="login">
-                        <div class="login-bottom">
-                            <h3>Sign up for free</h3>
-                            <form>
-                                <div class="sign-up">
-                                    <h4>Email :</h4>
-                                    <input type="text" value="Type here" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Type here';}" required="">
-                                </div>
-                                <div class="sign-up">
-                                    <h4>Password :</h4>
-                                    <input type="password" value="Password" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Password';}" required="">
-
-                                </div>
-                                <div class="sign-up">
-                                    <h4>Re-type Password :</h4>
-                                    <input type="password" value="Password" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Password';}" required="">
-
-                                </div>
-                                <div class="sign-up">
-                                    <input type="submit" value="REGISTER NOW">
-                                </div>
-
-                            </form>
-                        </div>
-                        <div class="login-right">
-                            <h3>Sign in with your account</h3>
-                            <form>
-                                <div class="sign-in">
-                                    <h4>Email :</h4>
-                                    <input type="text" value="Type here" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Type here';}" required="">
-                                </div>
-                                <div class="sign-in">
-                                    <h4>Password :</h4>
-                                    <input type="password" value="Password" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Password';}" required="">
-                                    <a href="#">Forgot password?</a>
-                                </div>
-                                <div class="single-bottom">
-                                    <input type="checkbox" id="brand" value="">
-                                    <label for="brand"><span></span>Remember Me.</label>
-                                </div>
-                                <div class="sign-in">
-                                    <input type="submit" value="SIGNIN">
-                                </div>
-                            </form>
-                        </div>
-                        <div class="clearfix"></div>
-                    </div>
-                    <p>By logging in you agree to our <a href="#">Terms and Conditions</a> and <a href="#">Privacy Policy</a></p>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
