@@ -15,7 +15,6 @@
     <link href="/assets/client/css/style.css" rel="stylesheet" type="text/css" media="all" />
     <script type="text/javascript" src="/assets/client/js/jquery-2.1.4.min.js"></script>
     <script src="/assets/client/js/simpleCart.min.js"></script>
-
     <script type="text/javascript" src="/assets/client/js/bootstrap-3.1.1.min.js"></script>
     <link href='http://font.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
     <link href='http://font.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,900,900italic,700italic' rel='stylesheet' type='text/css'>
@@ -30,6 +29,7 @@
                 <li><span class="fas fa-plane" ></span>Giao hàng nhanh chóng</li>
                 <li><span class="fas fa-shopping-cart" ></span>Miễn phí vận chuyển</li>
                 <li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span><a href="domanhhungc4@gmail.com">domanhhungc4@gmail.com</a></li>
+                
             </ul>
         </div>
     </div>
@@ -58,12 +58,38 @@
                     <div class="clearfix"></div>
                 </form>
             </div>
+            
             <div class="col-md-3 header-right footer-bottom">
                 <ul>
-                    
-                    <li>
-                        <a href="/dang-nhap" class="use1"><span>Login</span></a>
+                    <li class="dropdown">
+                        <a class="use1" data-toggle="dropdown" href="#">
+
+                        </a>
+                        <ul class="dropdown-menu dropdown-user">
+                            <li>
+                                @{ var session = (UserLogin)Session[OnlineShop.Common.CommonConstants.USER_SESSION]; }
+                                @if (session != null)
+                                {
+                                    <a href="#"><i class="fa fa-user fa-fw"></i>: @session.UserName</a> 
+                                }
+                                else
+                                {
+                                    <a href="/dang-nhap"><i class="fa fa-user fa-fw"></i> Đăng nhập</a>
+                                }
+
+                            </li>
+                            <br />
+                            <li>
+                                <a href="/dang-ky"><i class="fa fa-edit fa-fw"></i> Đăng ký</a>
+                            </li>
+                            <br />
+
+                            <li>
+                                <a href="/dang-xuat"><i class="fa fa-arrow-left" aria-hidden="true"></i> Đăng xuất</a>
+                            </li>
+                        </ul>
                     </li>
+
                     <li><a class="fb" href="https://www.facebook.com/M%E1%BA%A1nh-M%E1%BB%A1-184687066357136" target="_blank"></a></li>
                     <li><a class="twi" href="https://twitter.com/Manhhun36815177" target="_blank"></a></li>
                     <li><a class="insta" href="https://www.instagram.com/manhhung.107/" target="_blank"></a></li>
