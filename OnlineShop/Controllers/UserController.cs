@@ -155,9 +155,10 @@ namespace OnlineShop.Controllers
                 else
                 {
                     var user = new User();
-                    user.UserName = model.UserName;
-                    user.Name = model.Name;
+                    user.UserName = model.UserName;                   
                     user.Password = Encryptor.MD5Hash(model.Password);
+                    user.GroupID = "MEMBER";
+                    user.Name = model.Name;
                     user.Phone = model.Phone;
                     user.Email = model.Email;
                     user.Address = model.Address;

@@ -430,3 +430,14 @@ C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.O
 C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\bin\en\StaticResources.resources.dll
 C:\Users\Admin\OneDrive\Desktop\-n-l-p-tr-nh-web-main\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Google.Apis.Auth.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Google.Apis.Core.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Google.Apis.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Google.Apis.PlatformServices.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Google.Apis.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Google.Apis.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Google.Apis.Auth.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Google.Apis.Auth.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Google.Apis.Core.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án lập trình web\OnlineShop\bin\Google.Apis.Core.xml

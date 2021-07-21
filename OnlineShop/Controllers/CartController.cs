@@ -21,6 +21,7 @@ namespace OnlineShop.Controllers
         {
             var cart = Session[CartSession];
             var list = new List<CartItem>();
+
             if (cart != null)
             {
                 list = (List<CartItem>)cart;
@@ -109,8 +110,10 @@ namespace OnlineShop.Controllers
                 Session[CartSession] = list;
                 return Redirect(strUrl);
             }
+
             return RedirectToAction("Index");
         }
+        
         [HttpGet]
         public ActionResult Payment()
         {

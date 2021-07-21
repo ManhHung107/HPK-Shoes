@@ -1,13 +1,49 @@
 ﻿
-@{
-    ViewBag.Title = "Index";
-    Layout = "~/Views/Shared/_Layout.cshtml";
+@{ ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml"; 
+    }
+<style>
+    #mapCanvas{
+        width:100%;
+        height:600px;
+    }
+</style>
+@section jsFooter{
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBe1VbB3GbLlTQbAYgUdsboXlnBfPumCoc&callback=initMap&libraries=&v=weekly"
+            async></script>
+    <script>
+        function initMap() {
+            const uluru = { lat: 12.226416, lng: 109.199871 };
+            const map = new google.maps.Map(document.getElementById("mapCanvas"), {
+                zoom: 18,
+                center: uluru,
+            });
+            const contentString = 'HPK Shoes';
+
+            const infowindow = new google.maps.InfoWindow({
+                content: contentString,
+            });
+            const marker = new google.maps.Marker({
+                position: uluru,
+                map,
+                title: "Địa chỉ",
+            });
+            marker.addListener("click", () => {
+                infowindow.open({
+                    anchor: marker,
+                    map,
+                    shouldFocus: false,
+                });
+            });
+        }
+        google.maps.event.addDomListener(window, 'load', initMap);
+    </script>
+    
+
 }
-
-
-    <div class="container">
-        <h3 style="color: #FDA30E; text-align: center; text-transform: uppercase; font-size: 48px;padding-top:50px">Contact</h3>
-    </div>
+<div class="container">
+    <h3 style="color: #FDA30E; text-align: center; text-transform: uppercase; font-size: 48px;padding-top:50px">Contact</h3>
+</div>
 <div class="contact">
     <div class="container">
         <div class="contact-grids">
@@ -36,7 +72,8 @@
         </div>
         <div class="map wow fadeInDown animated" data-wow-delay=".5s">
             <h3 class="tittle">View On Map</h3>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d487.414985062297!2d109.1996951!3d12.226607!3m2!1i1024!2i768!4f13.1!5e0!3m2!1svi!2s!4v1626085744770!5m2!1svi!2s" frameborder="0" style="border:0"></iframe>
+            <div class="map" id="mapCanvas"></div>
+            @*<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d487.414985062297!2d109.1996951!3d12.226607!3m2!1i1024!2i768!4f13.1!5e0!3m2!1svi!2s!4v1626085744770!5m2!1svi!2s" frameborder="0" style="border:0"></iframe>*@
         </div>
         <h3 class="tittle">Contact Form</h3>
         <form>

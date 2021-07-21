@@ -5,6 +5,7 @@
     using System.ComponentModel.DataAnnotations;
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
+    using System.Linq;
 
     [Table("Product")]
     public partial class Product
@@ -70,5 +71,12 @@
         public DateTime? TopHot { get; set; }
 
         public int? ViewCount { get; set; }
+
+        public double TotalMoney()
+        {
+            var list = new List<Product>();
+            var total = list.Sum(s => s.Price * s.Quantity);
+            return (double)total;
+        }
     }
 }
