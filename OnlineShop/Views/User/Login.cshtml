@@ -1,68 +1,46 @@
 ﻿@model OnlineShop.Models.LoginModel
 
 @{ ViewBag.Title = "Login";
-     }
+    Layout = "~/Views/Shared/_Layout.cshtml"; }
 
+<div class="container">
+    <h3 style="color: #FDA30E; text-align: center; text-transform: uppercase; font-size: 48px;padding-top:50px">Đăng nhập</h3>
+</div>
+<div class="content">
 
+    @using (Html.BeginForm("Login", "User", FormMethod.Post))
+    {
+@Html.AntiForgeryToken()
+    <div class="form-horizontal" style="padding: 10% 2.5em;font-size:20px ">
 
-<!DOCTYPE html>
-<html>
-
-<head>
-    <title>The Login-Animated Website Template | Home :: w3layouts</title>
-    <meta charset="utf-8">
-    <link href="/assets/client/css/style2.css" rel='stylesheet' type='text/css' />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
-    <!--webfonts-->
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:600italic,400,300,600,700' rel='stylesheet' type='text/css'>
-    <!--//webfonts-->
-</head>
-<body>
-
-    <!-----start-main---->
-    <div class="login-form">
-        <div class="head">
-            <img src="~/assets/client/Image/mem.png" alt="" />
-
-        </div>
-        @using (Html.BeginForm("Login", "User", FormMethod.Post))
-        {
-             @Html.AntiForgeryToken()
-    <div class="form-horizontal">
-        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
         <div class="form-group">
-            <div class="col-md-10">
-                <a href="#" class=" icon user"></a>
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.UserName, new { @class = "control-label col-md-2" })
+            <div class="col-md-4">
                 @Html.TextBoxFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control" } })
                 @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
             </div>
         </div>
         <div class="form-group">
+            @Html.LabelFor(model => model.Password, new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.PasswordFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })<a href="#" class=" icon lock"></a>
+                @Html.PasswordFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })
                 @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
             </div>
         </div>
-    </div>
-            <div class="p-container">
-                <label class="checkbox"><input type="checkbox" name="checkbox" checked><i></i>Remember Me</label>
-                <input type="submit" value="Đăng nhập" class="btn btn-default" />
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Đăng nhập" class="btn btn-default" style="background-color:#FDA30E;color:white " />
+                <a href="/dang-ky"><input type="button" value="Đăng ký" class="btn btn-default" style="background-color:#FDA30E;color:white" /></a>
+                <a class="btn btn-primary" style="background-color: #3b5998;" href="#!" role="button">
+                    <i class="fab fa-facebook-f"></i>
+                </a>
                 <div class="clear"> </div>
             </div>
-
-            <div class="form-group">
-                <div class="col-md-offset-2 col-md-10">
-
-                    <a href="/dang-ky" class="btn btn-default"> Đăng ký</a> <br />
-                    <a class="btn btn-primary" style="background-color: #3b5998;" href="#!" role="button">
-                        <i class="fab fa-facebook-f"></i>
-                    </a>
-                </div>
-            </div>}
-
         </div>
+    </div>}
 
-</body>
-</html>
+</div>
 
