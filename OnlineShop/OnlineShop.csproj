@@ -1419,7 +1419,6 @@
     <Content Include="Views\Contact\Index.cshtml" />
     <Content Include="Views\Product\Index.cshtml" />
     <Content Include="Views\Shared\Cart.cshtml" />
-    <Content Include="Views\Shared\Account.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
