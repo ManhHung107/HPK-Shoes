@@ -170,6 +170,7 @@ namespace OnlineShop.Controllers
                 //ghi log
                 return Redirect("/loi-thanh-toan");
             }
+            Session[CartSession] = null;
             return Redirect("/hoan-thanh");
         }
 

@@ -12,35 +12,36 @@
             <div class="table-responsive checkout-right animated wow slideInUp" data-wow-delay=".5s">
                 @if (Model.Count > 0)
                 {
-                    <table class="timetable_sub">
-                        <thead>
-                            <tr>
-                                <th>Mã SP</th>
-                                <th>Tên SP</th>
-                                <th>Ảnh SP</th>
-                                <th>Số lượng</th>
-                                <th>Đơn giá</th>
-                                <th>Thành tiền</th>
-                                <th></th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            @foreach (var item in Model)
-                            {
-                                <tr>
-                                    <td>@item.Product.ID</td>
-                                    <td>@item.Product.Name</td>
-                                    <td><img src="@item.Product.Image" width="100" /></td>
-                                    <td><input type="text" class="txtQuantity" data-id="@item.Product.ID" value="@item.Quantity" /></td>
-                                    <td>@item.Product.Price.GetValueOrDefault(0).ToString("N0")</td>
-                                    <td>@((item.Product.Price.GetValueOrDefault(0) * item.Quantity).ToString("N0"))</td>
-                                    <td><a href="#" data-id="@item.Product.ID" class="btn-delete">Xoá</a></td>
-                                </tr>
+                    decimal total = 0;
+            <table class="timetable_sub">
+                <thead>
+                    <tr>
+                        <th>Mã SP</th>
+                        <th>Tên SP</th>
+                        <th>Ảnh SP</th>
+                        <th>Số lượng</th>
+                        <th>Đơn giá</th>
+                        <th>Thành tiền</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+            <tr>
+                <td>@item.Product.ID</td>
+                <td>@item.Product.Name</td>
+                <td><img src="@item.Product.Image" width="100" /></td>
+                <td><input type="text" class="txtQuantity" data-id="@item.Product.ID" value="@item.Quantity" /></td>
+                <td>@item.Product.Price.GetValueOrDefault(0).ToString("N0") VNĐ</td>
+                <td>@((item.Product.Price.GetValueOrDefault(0) * item.Quantity).ToString("N0") )VNĐ</td>
+                <td><a href="#" data-id="@item.Product.ID" class="btn-delete">Xoá</a></td>
+            </tr>total += (item.Product.Price.GetValueOrDefault(0) * item.Quantity);
                             }
 
-                        </tbody>
-                    </table>
-                }
+                </tbody>
+            </table>
+                            <p style="float:right; font-size:24px;margin:20px">Tổng tiền: @total.ToString("N0") VNĐ</p>}
             </div>
             <div class="container">
                 <h3 style="color: #FDA30E; text-align: center; text-transform: uppercase; font-size: 48px;padding-top:50px">Thông tin đặt hàng</h3>
