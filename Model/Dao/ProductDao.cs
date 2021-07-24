@@ -21,10 +21,6 @@ namespace Model.Dao
         {
             return db.Products.OrderByDescending(x => x.CreatedDate).Take(top).ToList();
         }
-        //public List<string> ListName(string keyword)
-        //{
-        //    return db.Products.Where(x => x.Name.Contains(keyword)).Select(x => x.Name).ToList();
-        //}
         public IEnumerable<Product> ListAllPagingg(string searchString, int page, int pageSize)
         {
             IQueryable<Product> model = db.Products;

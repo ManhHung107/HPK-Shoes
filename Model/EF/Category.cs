@@ -12,8 +12,8 @@ namespace Model.EF
         public long ID { get; set; }
 
         [StringLength(250)]
-        [Display(Name = "Category_Name", ResourceType = typeof(StaticResources.Resources))]
-        [Required(ErrorMessageResourceName ="Category_RequiredName",ErrorMessageResourceType =typeof(StaticResources.Resources))]
+        [Display(Name = "Category_Name")]
+        [Required(ErrorMessageResourceName ="Category_RequiredName")]
         public string Name { get; set; }
 
         [StringLength(250)]

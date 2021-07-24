@@ -12,15 +12,6 @@
     <!-- /.navbar-header -->
     <ul class="nav navbar-top-links navbar-right">
         <li>
-            @using (Html.BeginForm("ChangeCulture","Base"))
-            {
-                @Html.Hidden("returnUrl",Request.RawUrl)
-                @Html.DropDownList("ddlCulture", new SelectList(new[] {
-                    new {value="vi",text=StaticResources.Resources.Vietnamese},
-                    new {value="en",text=StaticResources.Resources.English},
-
-                    }, "value", "text", Session[OnlineShop.Common.CommonConstants.CurrentCulture]),new { onchange="this.form.submit();"})
-            }
         </li>
 
         <li class="dropdown">
