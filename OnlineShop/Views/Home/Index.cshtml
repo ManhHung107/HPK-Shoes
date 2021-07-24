@@ -1,8 +1,8 @@
 ﻿@{
-    ViewBag.Title = "Trang chủ";
     Layout = "~/Views/Shared/_Layout.cshtml";
     var listNewProducts = (List<Model.EF.Product>)ViewBag.NewProducts;
     var listFeatureProducts = (List<Model.EF.Product>)ViewBag.ListFeatureProducts;
+    var listSaleProducts = (List<Model.EF.Product>)ViewBag.ListSaleProducts;
 }
 <div class="banner-grid">
     <div id="visual">
@@ -134,7 +134,7 @@
                         }
                     </div>
                     <div class="tab-1 resp-tab-content" aria-labelledby="tab_item-2">
-                        @foreach (var item in listNewProducts)
+                        @foreach (var item in listSaleProducts)
                         {
                             var url = "/chi-tiet/" + item.MetaTitle + "-" + item.ID;
                             <div class="col-md-3 product-men yes-marg">
@@ -152,7 +152,8 @@
                                     <div class="item-info-product ">
                                         <h4><a href="@url">@item.Name</a></h4>
                                         <div class="info-product-price">
-                                            <p><span class="item_price">@(item.Price.HasValue ? item.Price.Value.ToString("N0") : "Liên hệ")  VNĐ</span></p>
+                                            <p><span class="item_price">@(item.PromotionPrice.HasValue ? item.PromotionPrice.Value.ToString("N0") : "Liên hệ")  VNĐ</span></p>
+                                            <del>@(item.Price.HasValue ? item.Price.Value.ToString("N0") : "Liên hệ")  VNĐ</del>
                                         </div>
                                         <div class="occasion-cart">
                                             <a href=@Url.Action("AddItem", "Cart", new { @productId = item.ID, @quantity=1, @strURL = Request.Url.ToString()}) class="item_add single-item hvr-outline-out button2">Thêm vào giỏ</a>

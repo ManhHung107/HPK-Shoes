@@ -19,25 +19,14 @@ namespace OnlineShop.Controllers
             var productDao = new ProductDao();
             ViewBag.NewProducts = productDao.ListNewProduct(12);
             ViewBag.ListFeatureProducts = productDao.ListFeatureProduct(12);
-            
+            ViewBag.listSaleProducts = productDao.ListSaleProduct(12);
             return View();
         }
-
-        [ChildActionOnly]
-        [OutputCache(Duration = 3600 * 24)]
         public ActionResult MainMenu()
         {
             var model = new MenuDao().ListByGroupId(1);
             return PartialView(model);
         }
-        [ChildActionOnly]
-        [OutputCache(Duration = 3600 * 24)]
-        public ActionResult TopMenu()
-        {
-            var model = new MenuDao().ListByGroupId(2);
-            return PartialView(model);
-        }
-        [ChildActionOnly]
         public PartialViewResult Cart()
         {
             var cart = Session[CommonConstants.CartSession];

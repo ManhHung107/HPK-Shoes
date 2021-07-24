@@ -215,6 +215,7 @@
     <Compile Include="Common\CommonConstants.cs" />
     <Compile Include="Common\Encryptor.cs" />
     <Compile Include="Common\HasCredentialAttribute.cs" />
+    <Compile Include="Common\MoMoSecurity.cs" />
     <Compile Include="Controllers\AboutController.cs" />
     <Compile Include="Controllers\AdidasController.cs" />
     <Compile Include="Controllers\CartController.cs" />

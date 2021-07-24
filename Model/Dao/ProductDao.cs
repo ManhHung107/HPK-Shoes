@@ -21,6 +21,10 @@ namespace Model.Dao
         {
             return db.Products.OrderByDescending(x => x.CreatedDate).Take(top).ToList();
         }
+        public List<Product> ListSaleProduct(int top)
+        {
+            return db.Products.Where(x=>x.PromotionPrice < x.Price).OrderByDescending(x => x.CreatedDate).Take(top).ToList();
+        }
         public IEnumerable<Product> ListAllPagingg(string searchString, int page, int pageSize)
         {
             IQueryable<Product> model = db.Products;
@@ -36,11 +40,6 @@ namespace Model.Dao
             return db.Products.OrderByDescending(x => x.ViewCount).Take(top).ToList();
         }
         
-        public List<Product> ListRelatedProducts(long productId)
-        {
-            var product = db.Products.Find(productId);
-            return db.Products.Where(x => x.ID != productId && x.CategoryID == product.CategoryID).ToList();
-        }
         public Product ViewDetail(long id)
         {
             return db.Products.Find(id);

@@ -10,6 +10,8 @@ using Model.EF;
 using Common;
 using System.Configuration;
 using System.IO;
+using OnlineShop.Common;
+using Newtonsoft.Json.Linq;
 
 namespace OnlineShop.Controllers
 {
@@ -173,7 +175,47 @@ namespace OnlineShop.Controllers
             Session[CartSession] = null;
             return Redirect("/hoan-thanh");
         }
+        //public ActionResult MomoPayment ()
+        //{
+        //    var cart = (List<CartItem>)Session[CartSession];
+        //    string endpoint = ConfigurationManager.AppSettings["endpoint"].ToString();
+        //    string partnercode = ConfigurationManager.AppSettings["partnercode"].ToString();
+        //    string accesskey = ConfigurationManager.AppSettings["accesskey"].ToString();
+        //    string serectkey = ConfigurationManager.AppSettings["serectkey"].ToString();
+        //    string orderInfo = "DH" + DateTime.Now.ToString("yyyyMMddHHmmss");
+        //    string returnUrl = ConfigurationManager.AppSettings["returnUrl"].ToString();
+        //    string notifyurl = ConfigurationManager.AppSettings["notifyurl"].ToString();
 
+        //    string amount = cart.Sum(n => n.Product.Price.GetValueOrDefault(0) * n.Quantity).ToString();
+        //    string orderid = Guid.NewGuid().ToString();
+        //    string requestId = Guid.NewGuid().ToString();
+        //    string extraData = "";
+
+        //    string rawHash = "partnercode=" + partnercode + "&accesskey=" + accesskey + "&requestId=" + requestId + "&amount=" + amount + "&orderid=" + orderid +
+        //        "&orderInfo" + orderInfo + "&returnUrl" + returnUrl + "&notifyurl" + notifyurl + "&extraData" + extraData;
+        //    string signature = MoMoSecurity.SignSHA256(rawHash, serectkey);
+        //    JObject message = new Object
+        //    {
+        //        {"partnercode", partnercode },
+        //        {"accesskey" ,accesskey},
+        //        {"requestId",requestId },
+        //        {"amount",amount },
+        //        {"orderid",orderid },
+        //        {"orderInfo",orderInfo },
+        //        {"returnUrl",returnUrl },
+        //        {"notifyurl",notifyurl },
+        //        {"requestType","captureMoMoWallet" },
+        //        {"signature", signature }
+        //    };
+        //    string reponseFromMoMo = PaymentRequest.sendPaymentRequest(endpoint, message.ToString());
+        //    JObject jmessage = JObject.Parse(reponseFromMoMo);
+        //    return Redirect(jmessage.GetValue().ToString());
+
+        //}
+        //public ActionResult ReturnUrl()
+        //{
+
+        //}
         public ActionResult Success()
         {
             return View();
